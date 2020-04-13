@@ -39,5 +39,3 @@ En este post explican algunas de las mejores practicas, como leerse primero siem
 *   Entorno de pre-producción, no siempre es posible, pero cuanto mas compleja sea nuestra arquitectura más necesario es
 
 *   Revisar las compatibilidades es fundamental, crear una matriz de versiones y Apps instaladas, [aqui](https://docs.splunk.com/Documentation/VersionCompatibility/current/Matrix/CompatMatrix) una tabla de ejemplo.
-Heading style Horizontal rule Bullet Code block style Fence Em delimiter Strong delimiter Link style Link reference style
-Turndown is copyright © 2017 Dom Christie and is released under the MIT license
