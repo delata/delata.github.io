@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: Actualziar Splunk
+date: 2019-06-01
+author: agarciaizquierdo
+comments: true
+categories: [Splunk, Splunk Español, Splunk Update]
+---
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-CvH25Xy90Kg/XQU7l2czU5I/AAAAAAABP_4/AUNgu5q8M3If4lxkmxiICpKnaEbhUpGtgCLcBGAs/s1600/Update-2018.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="770" height="166" src="https://1.bp.blogspot.com/-CvH25Xy90Kg/XQU7l2czU5I/AAAAAAABP_4/AUNgu5q8M3If4lxkmxiICpKnaEbhUpGtgCLcBGAs/s320/Update-2018.jpg" width="320" /></a></div>
 <br />
