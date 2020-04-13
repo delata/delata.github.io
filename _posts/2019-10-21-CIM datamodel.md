@@ -6,7 +6,8 @@ author: agarciaizquierdo
 comments: true
 categories: [CIM, Splunk Apps, Splunk Data Model, Splunk Español]
 ---
-![](https://cdn.apps.splunk.com/media/public/icons/c391c2fc-f0f5-11e9-8aa3-02dfd068cf86.png)
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="400" data-original-width="770" height="166" src="https://cdn.apps.splunk.com/media/public/icons/c391c2fc-f0f5-11e9-8aa3-02dfd068cf86.png"/></div>
 
   
   
