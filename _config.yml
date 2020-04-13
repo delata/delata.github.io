@@ -11,7 +11,8 @@ description: Blog sobre Splunk, seguridad e IT en general
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/11196974?s=400&v=4
 
-#
+# Build settings
+remote_theme: johno/pixyll
 # Flags below are optional
 #
 
