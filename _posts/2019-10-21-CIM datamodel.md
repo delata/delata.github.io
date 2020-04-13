@@ -1,4 +1,12 @@
-                                                                   ![](https://cdn.apps.splunk.com/media/public/icons/c391c2fc-f0f5-11e9-8aa3-02dfd068cf86.png)
+---
+layout: post
+title: CIM Datamodel
+date: 2019-10-21
+author: agarciaizquierdo
+comments: true
+categories: [CIM, Splunk Apps, Splunk Data Model, Splunk Español]
+---
+![](https://cdn.apps.splunk.com/media/public/icons/c391c2fc-f0f5-11e9-8aa3-02dfd068cf86.png)
 
   
   
